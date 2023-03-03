@@ -8,7 +8,7 @@
   height: 80vh;
   min-height: 600px;
   background-image: url(/assest/pexels-christina-morillo-1181233.jpeg);
-  background-position: center bottom;
+  background-position: center;
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -82,9 +82,10 @@
   justify-content: center;
   font-size: 60px;
   flex-grow: 1;
-  color: #e1a730;
-  font-weight: 70px;
-  font-size: 70px;
+  /* color: #e1a730; */
+  color: #FFD700;
+  font-weight: 50px;
+  font-size: 120px;
   font-family: Helvetica, sans-serif;
 }
 
